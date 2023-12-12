@@ -1,0 +1,24 @@
+Bài tập về nhà
+I. Servlet (https://drive.google.com/drive/folders/1QkVSLS76oflWAHo5epk7uMBCr5NSE-YJ?usp=sharing)
+1. Ví dụ HelloWorld với servlet
+2. Phần 4.3: Example: Reading Three Parameters (Book 1- Chapter 4)
+Listing 4.1 ThreeParams.java
+Listing 4.2 ThreeParamsForm.html
+3. Phần 4.4: Example: Reading All Parameters (Book 1- Chapter 4) 
+Listing 4.3 ShowParameters.java
+Listing 4.4 ShowParametersPostForm.html
+II. Servlet CRUD 
+1. Phần 9.8: 9.8 An Online Store with a Shopping Cart and Session Tracking (Book 1- Chapter 9)
+(https://drive.google.com/drive/folders/1esyEeipJ8ZYTWEy5eNmmnDVVF6LsOyQw?usp=sharing)
+2. Kết nối CSDL mySQL, dùng doget, dopost để thêm, cập nhật, xóa trong CSDL và hiển thị lên web	với Servlet
+(https://drive.google.com/drive/folders/17dH0G8Ax3Fz3o1CHnbxmmE62ASRy6faI?usp=sharing)
+III. Servlet JSP CRUD (https://drive.google.com/drive/folders/1Bu9LUGVMOjrtzynRFbVXtQ63n1jD5PtE?usp=sharing)
+1. Bài tập loggin với jsp 
+2. Kết nối CSDL mySQL, thêm, cập nhật, xóa trong CSDL và hiển thị lên web với servlet + jsp CRUD
+IV. Spring framework
+1. springForm 
+(https://drive.google.com/drive/folders/1cDs8shX_PsKgciAPZacYEjqXigHgXqAU?usp=sharing)
+2. ModelView ParamsReqsVariablesPaths
+(https://drive.google.com/drive/folders/1cfEEGrese1SpbvzyAJrZcYK3Wz1v6X2p?usp=sharing)
+3.  Rest API and Spring MVC
+(https://drive.google.com/drive/folders/1WcOlIOckUu_etTPjQsGx047H5VCmuVm_?usp=sharing)

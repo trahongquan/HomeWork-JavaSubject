@@ -1,0 +1,4 @@
+Bài tập về servlet tuần 6
+1. Ví dụ HelloWorld với servlet
+2. Phần 9.8: 9.8 An Online Store with a Shopping Cart and Session Tracking (Book 1- Chapter 9)
+4. Kết nối CSDL mySQL, dùng doget, dopost để thêm, cập nhật, xóa trong CSDL và hiển thị lên web	

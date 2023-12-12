@@ -1,0 +1,12 @@
+Bài tập về nhà
+1. Ví dụ HelloWorld với servlet
+2. Phần 4.3: Example: Reading Three Parameters (Book 1- Chapter 4)
+Listing 4.1 ThreeParams.java
+Listing 4.2 ThreeParamsForm.html
+3. Phần 4.4: Example: Reading All Parameters (Book 1- Chapter 4) 
+Listing 4.3 ShowParameters.java
+Listing 4.4 ShowParametersPostForm.html
+4. Phần 9.8: 9.8 An Online Store with a Shopping Cart and Session Tracking (Book 1- Chapter 9)
+5. Kết nối CSDL mySQL, dùng doget, dopost để thêm, cập nhật, xóa trong CSDL và hiển thị lên web	với Servlet
+7. Bài tập loggin với jsp
+8. Kết nối CSDL mySQL, thêm, cập nhật, xóa trong CSDL và hiển thị lên web với servlet + jsp CRUD
